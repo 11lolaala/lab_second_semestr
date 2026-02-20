@@ -1,14 +1,6 @@
 #include <functions.hpp>
 
 
-__declspec(dllexport) int foo(int a, int b) {
-    return 12 + a + b;
-}
-
-__declspec(dllexport) void Logger:: set_loglevel (int loglvl){
-    loglevel_ = loglvl;
-}
-
 __declspec(dllexport) std::string current_time(){
     std::time_t now = std::time(nullptr);
     std::tm *curtime = std::localtime(&now);
@@ -84,4 +76,5 @@ __declspec(dllexport) void Logger::CRITICAL(int loglevel, const std::string text
         }
     }
 }
+
 
