@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "E:/Gith/lab_second_semestr/Lab_04/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/gui_app/gui_app_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Gith/lab_second_semestr/Lab_04/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Gith/lab_second_semestr/Lab_04/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/gui_app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Gith/lab_second_semestr/Lab_04/gui_app",
+	"CMAKE_SOURCE_DIR" : "E:/Gith/lab_second_semestr/Lab_04",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/Gith/lab_second_semestr/Lab_04/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/gui_app/gui_app_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/eX8b1ZaORXQ.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/YXviiYFhl2c.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/yOnSX3Y5ApY.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/photo_2025-08-25_14-08-36.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/wIOSQYfQ3hY.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/FvhoYi1l7Rs.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/FZ7oAZ1d8RI.jpg",
+		"E:/Gith/lab_second_semestr/Lab_04/gui_app/images/bLPUHHkWv3k.jpg"
+	],
+	"LOCK_FILE" : "E:/Gith/lab_second_semestr/Lab_04/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/gui_app/CMakeFiles/gui_app_autogen.dir/AutoRcc_photos_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "photos" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_photos.cpp",
+	"RCC_EXECUTABLE" : "E:/Qt/6.10.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Gith/lab_second_semestr/Lab_04/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/gui_app/CMakeFiles/gui_app_autogen.dir/AutoRcc_photos_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Gith/lab_second_semestr/Lab_04/gui_app/photos.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
